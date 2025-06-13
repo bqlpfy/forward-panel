@@ -72,6 +72,9 @@
 
 ```bash
 # 1. 进入部署目录
+
+安装节点端gost的时候需要先安装下redis  忘记加redis的安装命令了 不然节点不上线
+
 wget https://github.com/bqlpfy/forward-panel/raw/refs/heads/main/deployment.zip
 unzip deployment.zip
 cd deployment
